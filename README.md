@@ -7,7 +7,7 @@
 - 🌐 Intermediate English - B1
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohhenriqueas&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohhenriqueas&layout=compact&theme=tokyonight"/>
 
 ### Technologies & Tools
 <div>
